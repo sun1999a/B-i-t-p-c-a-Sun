@@ -1,0 +1,49 @@
+@media only screen and (max-width:1200px){
+   header{
+   	 margin-left: -50px;
+   }
+   .btn{
+    margin: 50px 50px 50px 0px;
+   }
+   .menus{
+   	 height: 170px;
+   }
+   .menu-bar{
+   	margin-left: -30px;
+   }
+}
+@media only screen and (max-width:1023px){
+      .form-control{
+      	margin: 50px 100px 0px 0px;
+     	}
+}
+@media only screen and (max-width:767px){
+     .btn{
+     	  margin-top: 50px;
+     }
+
+     .form-control{
+       	margin-top: 200px;
+       	margin-left: -100px;
+     }
+     .main-nav{
+     	 margin-left: -90px;
+     	 margin-top: 50px;
+     }
+}
+@media only screen and (max-width:480px){
+     .form-control{
+       	margin-left: -200px;
+     }
+     .main-nav{
+     	 margin-left: -150px;
+     }
+     .pricever{
+     	 margin-top: 50px;
+     	 margin-left: -150px;
+     }
+     .data{
+     	 display: inline-block;
+     	 margin-bottom: 20px;
+     }
+}
